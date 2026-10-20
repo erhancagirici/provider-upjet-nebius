@@ -55,7 +55,7 @@ GO_SUBDIRS += cmd internal apis generate config
 # ====================================================================================
 # Setup Kubernetes tools
 
-KIND_VERSION = v0.31.0
+KIND_VERSION = v0.33.0
 UPTEST_VERSION = v2.2.0
 CRDDIFF_VERSION = v0.12.1
 CROSSPLANE_CLI_VERSION = v2.2.1
