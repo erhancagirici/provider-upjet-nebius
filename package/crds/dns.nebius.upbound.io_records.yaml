@@ -76,7 +76,7 @@ spec:
                     description: |-
                       :
 
-                      # Record data in text format
+                      Record data in text format
 
                       This should be the RDATA part of this Resource Record's
                       [presentation (zonefile) format](https://datatracker.ietf.org/doc/html/rfc9499#name-resource-records).
@@ -194,7 +194,7 @@ spec:
                     description: |-
                       :
 
-                      # Record type
+                      Record type
 
                       #### Supported values
 
@@ -235,7 +235,7 @@ spec:
                     description: |-
                       :
 
-                      # Record data in text format
+                      Record data in text format
 
                       This should be the RDATA part of this Resource Record's
                       [presentation (zonefile) format](https://datatracker.ietf.org/doc/html/rfc9499#name-resource-records).
@@ -353,7 +353,7 @@ spec:
                     description: |-
                       :
 
-                      # Record type
+                      Record type
 
                       #### Supported values
 
@@ -493,7 +493,7 @@ spec:
                     description: |-
                       :
 
-                      # Record data in text format
+                      Record data in text format
 
                       This should be the RDATA part of this Resource Record's
                       [presentation (zonefile) format](https://datatracker.ietf.org/doc/html/rfc9499#name-resource-records).
@@ -570,7 +570,7 @@ spec:
                     description: |-
                       :
 
-                      # Record type
+                      Record type
 
                       #### Supported values
 
